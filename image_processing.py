@@ -1,10 +1,5 @@
 import os
-import cv2
-from cv2 import convexityDefects
-from cv2 import threshold
 import numpy as np
-import PIL.Image
-import PIL
 import tensorflow as tf
 from tensorflow import keras
 import pandas as pd
